@@ -3,3 +3,4 @@ package-lock.json
 wallets.json
 proxy.txt
 tes.js
+.env
